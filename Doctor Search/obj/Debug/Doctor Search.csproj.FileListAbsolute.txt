@@ -1,0 +1,14 @@
+D:\C#\Doctor Search\Doctor Search\bin\Debug\Doctor Search.exe.config
+D:\C#\Doctor Search\Doctor Search\bin\Debug\DB.mdf
+D:\C#\Doctor Search\Doctor Search\bin\Debug\DB_log.ldf
+D:\C#\Doctor Search\Doctor Search\bin\Debug\Doctor Search.exe
+D:\C#\Doctor Search\Doctor Search\obj\Debug\Doctor Search.csprojResolveAssemblyReference.cache
+D:\C#\Doctor Search\Doctor Search\obj\Debug\Doctor_Search.Form1.resources
+D:\C#\Doctor Search\Doctor Search\obj\Debug\Doctor_Search.Login.resources
+D:\C#\Doctor Search\Doctor Search\obj\Debug\Doctor_Search.Form2.resources
+D:\C#\Doctor Search\Doctor Search\obj\Debug\Doctor_Search.Properties.Resources.resources
+D:\C#\Doctor Search\Doctor Search\obj\Debug\Doctor_Search.Search.resources
+D:\C#\Doctor Search\Doctor Search\obj\Debug\Doctor Search.csproj.GenerateResource.Cache
+D:\C#\Doctor Search\Doctor Search\obj\Debug\Doctor Search.exe
+D:\C#\Doctor Search\Doctor Search\obj\Debug\Doctor Search.pdb
+D:\C#\Doctor Search\Doctor Search\bin\Debug\Doctor Search.pdb
